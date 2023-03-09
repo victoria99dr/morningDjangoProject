@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f1c29fc-399a-4746-b83d-506b206c133c" name="Changes" comment="" />
+    <list default="true" id="3f1c29fc-399a-4746-b83d-506b206c133c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/morningDjangoProject/.env" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/morningDjangoProject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/morningDjangoProject/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/morningDjangoProject/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/morningDjangoProject/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +59,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/static" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="morningDjangoProject" type="Python.DjangoServer" factoryName="Django server">
@@ -92,7 +102,11 @@
       <workItem from="1677818696579" duration="77000" />
       <workItem from="1677818788509" duration="3000" />
       <workItem from="1677819842580" duration="9868000" />
-      <workItem from="1678078038525" duration="7736000" />
+      <workItem from="1678078038525" duration="8375000" />
+      <workItem from="1678164822623" duration="4622000" />
+      <workItem from="1678253705420" duration="2728000" />
+      <workItem from="1678256859063" duration="628000" />
+      <workItem from="1678258554388" duration="2426000" />
     </task>
     <servers />
   </component>
